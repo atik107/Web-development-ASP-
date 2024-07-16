@@ -1,0 +1,85 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="ASP_project_01.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <header class="header">
+                <a href="#" class="logo"><i class="fas fa-heartbeat"></i>Heart Foundation</a>
+        
+                <nav class="navbar">
+                    <a href="home_page.aspx">Home</a>
+                    <a href="service_page_01.aspx">Services</a>
+                    <a href="doctor_info.aspx">Doctors</a>
+                    <a href="appointment.aspx">Appoinment</a>
+                    <a href="review_page_01.aspx">Review</a>
+                    <a href="about.aspx">About</a>
+                    <a href="log_in_02.aspx">Log In</a>
+                </nav>
+             </header>
+
+
+
+    <section class="footer">
+            <div class="box-container">
+            <div class="box">
+                <h3>qucik links</h3>
+                <a href="#"><i class="fas  fa-chevron-right">home</i></a>
+                <a href="#"><i class="fas  fa-chevron-right">services</i></a>
+                <a href="#"><i class="fas  fa-chevron-right">about</i></a>
+                <a href="#"><i class="fas  fa-chevron-right">doctors</i></a>
+                <a href="#"><i class="fas  fa-chevron-right">appoinment</i></a>
+                <a href="#"><i class="fas  fa-chevron-right">review</i></a>
+            </div>
+
+            <div class="box">
+                <h3>our services</h3>
+                <a href="#"><i class="fas  fa-chevron-right">dental care</i></a>
+                <a href="#"><i class="fas  fa-chevron-right">message therapy</i></a>
+                <a href="#"><i class="fas  fa-chevron-right">cardioloty</i></a>
+                <a href="#"><i class="fas  fa-chevron-right">diagnosis</i></a>
+                <a href="#"><i class="fas  fa-chevron-right">ambulance</i></a>
+            </div>
+
+
+            <div class="box">
+                <h3>contact info</h3>
+                <a href="#"><i class="fas  fa-phone"> +88 01765472156</i></a>
+                <a href="#"><i class="fas  fa-phone"> +88 01638591458</i></a>
+                <a href="#"><i class="fas  fa-envelope">  atiquli209@gmail.com</i></a>
+                <a href="#"><i class="fas  fa-envelope">  atiquli209@gmail.com</i></a>
+                <a href="#"><i class="fas  fa-map-marker-alt"> Kuet, Digholiya khulna</i></a>
+            </div>
+
+
+            <div class="box">
+                <h3>follow us</h3>
+                <a href="#"><i class="fab fa-facebook-f"> facebook</i></a>
+                <a href="#"><i class="fab fa-twitter"> twitter</i></a>
+                <a href="#"><i class="fab fa-twitter"> twitter</i></a>
+                <a href="#"><i class="fab fa-facebook-f"> instagram</i></a>
+                <a href="#"><i class="fab fa-facebook-f"> linkedin</i></a>
+                <a href="#"><i class="fab fa-facebook-f"> pinterest</i></a>
+            </div>
+        </div>
+
+        <div class="credit">Created By<span> Atiqul Islam </span>   |  All Rights Reserved</div>
+
+        </div>
+    </section>
+
+
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
