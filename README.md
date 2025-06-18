@@ -1,8 +1,4 @@
-
-# Online Doctor Appointment System
-
-
-# Web Development with ASP.NET
+# Web Development with ASP.NET (Online Doctor Appointment System)
 
 This project is a comprehensive ASP.NET web application built as part of a system development project. It demonstrates the use of **C#**, **ASP.NET Web Forms**, **SQL Server**, and **HTML/CSS/JavaScript** to build a role-based platform for managing different user types and features like admin control, form submission, and database interaction.
 
