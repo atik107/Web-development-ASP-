@@ -1,12 +1,12 @@
 
-# CardioCare - An Android Application for Healthcare Management
+# Online Doctor Appointment System
 
 
-# Overview
-CardioCare is an advanced Android application designed to improve healthcare accessibility and management. The app bridges the gap between patients and doctors by offering telemedicine services, appointment scheduling, and AI-driven heart disease predictions.
+# Web Development with ASP.NET
 
-Developed as part of the **System Development Project** under the supervision of **Md. Motaleb Hossen Manik**, this project incorporates modern technologies and design principles to deliver an efficient and user-friendly healthcare solution.
+This project is a comprehensive ASP.NET web application built as part of a system development project. It demonstrates the use of **C#**, **ASP.NET Web Forms**, **SQL Server**, and **HTML/CSS/JavaScript** to build a role-based platform for managing different user types and features like admin control, form submission, and database interaction.
 
+---
 
 
 <p align="center">
@@ -36,32 +36,34 @@ Developed as part of the **System Development Project** under the supervision of
 
 
 
+## 🚀 Features
 
+- 🔐 **Role-Based Login System**
+  - Admin
+  - Doctor
+  - Patient
 
-## Features
-### Patient Features
-- **Login & Signup:** Secure authentication using Firebase.
-- **Find Doctors:** Search and filter doctors by specialty, fees, or name.
-- **Heart Disease Predictor:** Predict heart disease risks using an integrated machine-learning model.
-- **Emergency Services:** Access ambulance services and emergency hotlines.
-- **Profile Management:** Edit profiles, calculate BMI, and review prescriptions.
+- 📋 **Form Submission & Data Handling**
+  - Registration Forms
+  - Appointment Booking
+  - Patient Details Entry
 
-### Doctor Features
-- **Patient Monitoring:** View patient records and history.
-- **Prescription Management:** Add or edit prescriptions for patients.
-- **Medical Resources:** Access disease and medication details.
+- 🖥️ **Admin Dashboard**
+  - Manage Users (Doctors/Patients)
+  - View & Delete Entries
+  - Manage Appointment
+    
 
-### Admin Features
-- **System Management:** Add/edit doctors, view patients, and manage ambulance services.
-- **Data Oversight:** Monitor patient and doctor activities.
+- 📄 **Frontend Design**
+  - HTML, CSS, JavaScript
+  - Responsive and Clean UI
 
 ---
 
-## Technologies Used
-- **Android Studio** for app development.
-- **Firebase** for authentication and database management.
-- **Google Colab** for training the heart disease predictor ML model.
-- **TensorFlow Lite** for deploying the ML model on mobile devices.
-- **Figma** for UI/UX design.
+## 🛠️ Technologies Used
 
-
+- ASP.NET Web Forms
+- C# (Code-Behind)
+- SQL Server (Backend)
+- HTML/CSS
+- JavaScript
