@@ -9,7 +9,7 @@ Developed as part of the **System Development Project** under the supervision of
 
 
 <p align="center">
-    <img src="Website_ss/ss_1.jpg" alt="Screenshot 1" height = "400" width="200">
+    <img src="Website_ss/ss_1.jpg" alt="Screenshot 1" height = "400" width="700">
     <img src="Website_ss/ss_2.jpg" alt="Screenshot 2" height = "400" width="200">
     <img src="Website_ss/ss_3.jpg" alt="Screenshot 3" height = "400" width="200">
 </p>
