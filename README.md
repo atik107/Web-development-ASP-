@@ -8,18 +8,33 @@ CardioCare is an advanced Android application designed to improve healthcare acc
 Developed as part of the **System Development Project** under the supervision of **Md. Motaleb Hossen Manik**, this project incorporates modern technologies and design principles to deliver an efficient and user-friendly healthcare solution.
 
 
+
 <p align="center">
-    <img src="Website_ss/ss_1.jpg" alt="Screenshot 1" height = "400" width="700">
-    <img src="Website_ss/ss_2.jpg" alt="Screenshot 2" height = "400" width="200">
-    <img src="Website_ss/ss_3.jpg" alt="Screenshot 3" height = "400" width="200">
+    <img src="Website_ss/ss_1.jpg" alt="Screenshot 1" height="400" width="700">
+</p>
+<p align="center">
+    <img src="Website_ss/ss_2.jpg" alt="Screenshot 2" height="400" width="700">
+</p>
+<p align="center">
+    <img src="Website_ss/ss_3.jpg" alt="Screenshot 3" height="400" width="700">
+</p>
+<p align="center">
+    <img src="Website_ss/ss_4.jpg" alt="Screenshot 4" height="400" width="700">
+</p>
+<p align="center">
+    <img src="Website_ss/ss_5.jpg" alt="Screenshot 5" height="400" width="700">
+</p>
+<p align="center">
+    <img src="Website_ss/ss_6.jpg" alt="Screenshot 6" height="400" width="700">
+</p>
+<p align="center">
+    <img src="Website_ss/ss_7.jpg" alt="Screenshot 7" height="400" width="700">
+</p>
+<p align="center">
+    <img src="Website_ss/ss_8.jpg" alt="Screenshot 8" height="400" width="700">
 </p>
 
-<!-- Second Row -->
-<p align="center">
-    <img src="Website_ss/ss_4.jpg" alt="Screenshot 4" height = "400" width="200">
-    <img src="Website_ss/ss_5.jpg" alt="Screenshot 5" height = "400" width="200">
-    <img src="Website_ss/ss_6.jpg" alt="Screenshot 6" height = "400" width="200">
-</p>
+
 
 
 
