@@ -9,16 +9,16 @@ Developed as part of the **System Development Project** under the supervision of
 
 
 <p align="center">
-    <img src="website_ss/ss_1.jpg" alt="Screenshot 1" height = "400" width="200">
-    <img src="website_ss/ss_2.jpg" alt="Screenshot 2" height = "400" width="200">
-    <img src="website_ss/ss_3.jpg" alt="Screenshot 3" height = "400" width="200">
+    <img src="Website_ss/ss_1.jpg" alt="Screenshot 1" height = "400" width="200">
+    <img src="Website_ss/ss_2.jpg" alt="Screenshot 2" height = "400" width="200">
+    <img src="Website_ss/ss_3.jpg" alt="Screenshot 3" height = "400" width="200">
 </p>
 
 <!-- Second Row -->
 <p align="center">
-    <img src="website_ss/ss_4.jpg" alt="Screenshot 4" height = "400" width="200">
-    <img src="website_ss/ss_5.jpg" alt="Screenshot 5" height = "400" width="200">
-    <img src="website_ss/ss_6.jpg" alt="Screenshot 6" height = "400" width="200">
+    <img src="Website_ss/ss_4.jpg" alt="Screenshot 4" height = "400" width="200">
+    <img src="Website_ss/ss_5.jpg" alt="Screenshot 5" height = "400" width="200">
+    <img src="Website_ss/ss_6.jpg" alt="Screenshot 6" height = "400" width="200">
 </p>
 
 
